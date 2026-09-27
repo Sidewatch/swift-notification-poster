@@ -1,3 +1,7 @@
+> **This package has moved.** It is now the `NotificationPoster` module of [swift-macos-services](https://github.com/Sidewatch/swift-macos-services), with its full
+> history. Depend on `.package(url: "https://github.com/Sidewatch/swift-macos-services.git", from: "0.1.0")` and the `NotificationPoster` product;
+> `import NotificationPoster` is unchanged. This repository is archived.
+
 # Swift Notification Poster
 
 Shows macOS notifications through a protocol, so the logic deciding *when* to notify can be
